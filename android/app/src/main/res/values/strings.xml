@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VK_donations</string>
+    <string name="fundraising_title">Пожертвования</string>
+    <string name="choose_donation_type_title">Тип сбора</string>
+    <string name="target_donation_extra_title">Дополнительно</string>
+    <string name="target_donation_title">Целевой сбор</string>
+    <string name="empty_donations_text">У Вас пока нет сборов.\nНачните доброе дело.</string>
+    <string name="create_donations_button_text">Создать сбор</string>
+    <string name="author">Автор</string>
+    <string name="help_first">Помогите первым</string>
+    <string-array name="authors">
+        <item>Матвей Правосудов</item>
+        <item>Сообщество фанатов Матвея Правосудова &lt;3</item>
+    </string-array>
+    <string name="collection_finish">Сбор завершится</string>
+    <string name="collection_done">Когда соберем сумму</string>
+    <string name="concrete_date">В определённую дату</string>
+    <string name="expiration_date">Дата окончания</string>
+    <string-array name="money_sources">
+        <item>Счёт VK Pay &#183; 1234</item>
+    </string-array>
+
+</resources>
